@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED3A2961-84EB-4F74-B8E4-074E67EA7F5E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95106C02-F4FE-4E21-AB99-B9093C4773BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelProject/Model/API/Mediator/API+Search.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "searchFetch(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95106C02-F4FE-4E21-AB99-B9093C4773BE - 91b5991feac58243"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelProject.APIMediator.searchFetch(query: Swift.String) -&gt; ()"
+                  moduleName = "MarvelProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ben.clark/Documents/GitHub/MarvelProject/MarvelProject/Model/API/Mediator/API+Search.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "95106C02-F4FE-4E21-AB99-B9093C4773BE - 78250e3ad6248227"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarvelProject.APIMediator.searchFetch(query: Swift.String) -&gt; ()"
+                  moduleName = "MarvelProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ben.clark/Documents/GitHub/MarvelProject/MarvelProject/Model/API/Mediator/API+Search.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "95106C02-F4FE-4E21-AB99-B9093C4773BE - 91b5991feac58181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelProject.APIMediator.searchFetch(query: Swift.String) -&gt; ()"
+                  moduleName = "MarvelProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ben.clark/Documents/GitHub/MarvelProject/MarvelProject/Model/API/Mediator/API+Search.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "95106C02-F4FE-4E21-AB99-B9093C4773BE - 355a149a2aafff28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MarvelProject.APIMediator.searchFetch(query: Swift.String) -&gt; ()"
+                  moduleName = "MarvelProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ben.clark/Documents/GitHub/MarvelProject/MarvelProject/Model/API/Mediator/API+Search.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9F78EC9-F2BD-4EA4-9DB5-55050D0DDFBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelProject/Views/Search/SearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
